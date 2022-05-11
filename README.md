@@ -1,0 +1,2 @@
+# mojicolor
+npm mojicolor
