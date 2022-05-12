@@ -1,2 +1,26 @@
 # mojicolor
-npm mojicolor
+
+## Description
+npm mojicolor is a easy way to search text color codes (24-bit) for terminals.
+Please note that many of terminals don't support all 24-bit colors.
+It would show a similar color instead if your terminal cannot find the color.
+
+## How to use
+1. Install mojicolor globally or locally.
+
+Global install.
+```
+$ npm install -g mojicolor
+```
+
+Local install.
+```
+$ npm install mojicolor
+```
+
+2. Run the following command.
+```
+$ mojicolor
+```
+
+3. Type a color name from the list and press enter.

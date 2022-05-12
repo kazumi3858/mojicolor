@@ -1,0 +1,26 @@
+{
+  "name": "mojicolor",
+  "version": "1.0.0",
+  "description": "Easy way to check text color codes for your terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazumi3858/mojicolor.git"
+  },
+  "author": "kazumi3858",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazumi3858/mojicolor/issues"
+  },
+  "homepage": "https://github.com/kazumi3858/mojicolor#readme",
+  "keywords": [
+    "color codes",
+    "CLI"
+  ],
+  "bin": {
+    "mojicolor": "index.js"
+  }
+}
