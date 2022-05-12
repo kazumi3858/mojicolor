@@ -1,6 +1,6 @@
 {
   "name": "mojicolor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy way to check text color codes for your terminal.",
   "main": "index.js",
   "scripts": {
