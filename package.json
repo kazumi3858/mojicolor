@@ -1,7 +1,7 @@
 {
   "name": "mojicolor",
-  "version": "0.0.1",
-  "description": "Easy way to check text color codes for shell.",
+  "version": "1.0.0",
+  "description": "Easy way to check text color codes for your terminal.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
